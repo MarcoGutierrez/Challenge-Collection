@@ -1,0 +1,2 @@
+1/3/2016
+This is my initial solution for solving this problem. I realize there are some data types I could cut back on and a condition I could minimize so my code is both lean and more understandable. This will be my goal when I return to this code. 
