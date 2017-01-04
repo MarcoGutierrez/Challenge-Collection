@@ -1,10 +1,9 @@
 # Challenge-Collection
 This is a collection of code challenges I have completed or I have started working on. This will ideally let me post my solutions that I have personally crafted or did cited research to come to an answer.
 
-#Nth Series
-##Java
+#Java
 
-###Task:
+##Nth Series
 
 Your task is to write a function which returns the sum of following series upto nth term(parameter).
 
